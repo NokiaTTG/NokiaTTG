@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! What's up? 👋
 
 - 🔭 I’m currently working on a personal project called "OverCross"
 - 🌱 I’m currently learning HTML & CSS, english and I want to learn JS
